@@ -4,6 +4,7 @@ NodeJS app which consumes image recognition apis
 ### Installation
 ```
 git clone git@github.com:gruberb/ImageRecon.git
+npm i
 ```
 
 
@@ -18,3 +19,7 @@ export GOOGLE_API_KEY=XXX
 ```
 node index.js /Users/YOUR_USERNAME/folder/to/image.jpg
 ```
+
+### Example 
+
+![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assests/example.png)
