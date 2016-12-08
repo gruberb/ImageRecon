@@ -19,7 +19,6 @@ co(function* () {
   let res = yield vision.annotate(req);
   return res;
 }).then(function (value) {
-    console.log(value);
     value.responses[0].labelAnnotations.forEach((item) => {
         console.log(item.description, item.score + ' \n');
     });
