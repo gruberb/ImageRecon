@@ -2,7 +2,7 @@
 const vision = require('node-cloud-vision-api')
 
 // init with auth
-vision.init({auth: GOOGLE_API_KEY});
+vision.init({auth: process.env.GOOGLE_API_KEY});
 
 const args = process.argv.slice(2);
 console.log(args[0]);
