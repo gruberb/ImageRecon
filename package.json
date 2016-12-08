@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gruberb/ImageRecon#readme",
   "dependencies": {
+    "co": "^4.6.0",
     "googleapis": "^15.0.0",
     "node-cloud-vision-api": "^0.2.0"
   }
