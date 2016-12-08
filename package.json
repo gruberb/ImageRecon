@@ -1,0 +1,23 @@
+{
+  "name": "image_recon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gruberb/ImageRecon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gruberb/ImageRecon/issues"
+  },
+  "homepage": "https://github.com/gruberb/ImageRecon#readme",
+  "dependencies": {
+    "googleapis": "^15.0.0",
+    "node-cloud-vision-api": "^0.2.0"
+  }
+}
