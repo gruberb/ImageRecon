@@ -22,4 +22,4 @@ node index.js /Users/YOUR_USERNAME/folder/to/image.jpg
 
 ### Example 
 
-![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assests/example.png)
+![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assests/ex.png)
