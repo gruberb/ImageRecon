@@ -22,4 +22,8 @@ node index.js /Users/YOUR_USERNAME/folder/to/image.jpg
 
 ### Example 
 
+#### Input image
+![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assests/adlon.png)
+
+#### Result
 ![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assests/ex.png)
