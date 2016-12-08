@@ -10,6 +10,8 @@ npm i
 
 ### Usage
 
+Currently, this app is just consuming the CloudVisionAPI from Google. I am using this [NodeJS implementation of the CloudVisionAPI](https://github.com/tejitak/node-cloud-vision-api).
+
 1. Set your GoogleAPI key in your .bashrc or .zshrc
 ```
 export GOOGLE_API_KEY=XXX
