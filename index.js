@@ -10,7 +10,7 @@ const args = process.argv.slice(2);
 const req = new vision.Request({
   image: new vision.Image(args[0]),
   features: [
-    new vision.Feature('FACE_DETECTION', 4),
+    new vision.Feature('FACE_DETECTION', 10),
     new vision.Feature('LABEL_DETECTION', 10),
   ]
 });
