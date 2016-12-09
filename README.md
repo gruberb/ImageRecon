@@ -20,9 +20,9 @@ export CLARIFAI_ID=XXX
 export CLARIFAI_SECRET=XXX
 ```
 
-2. Pass the image you want to send via the command line
+2. Start the app and follow the command line. 
 ```
-node index.js /Users/YOUR_USERNAME/folder/to/image.jpg
+node index.js
 ```
 
 ### Example 
