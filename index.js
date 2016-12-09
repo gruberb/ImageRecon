@@ -68,7 +68,7 @@ const callClarifai = (url, cb) => {
 rl.question('Which service do you want to use? \n' +
   '1) GoogleVisionAPI \n' +
   '2) ClarifaiAPI \n' +
-  '3) Comparisson \n', (answer) => {
+  '3) Compare the two \n', (answer) => {
 
     next(answer);
     // rl.close();
