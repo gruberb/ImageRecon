@@ -13,7 +13,7 @@ npm i
 Currently, this app is just consuming the CloudVisionAPI from Google. I am using this [NodeJS implementation of the CloudVisionAPI](https://github.com/tejitak/node-cloud-vision-api).
 To use this tool, you have to have a [GoogleVisionAPI](https://cloud.google.com/vision/) key and a [ClarifaiAPI](https://www.clarifai.com) key.
 
-1.Set your GoogleAPI and Clarifai API key in your .bashrc or .zshrc
+1.gSet your GoogleAPI and Clarifai API key in your .bashrc or .zshrc
 ```
 export GOOGLE_API_KEY=XXX
 export CLARIFAI_ID=XXX
@@ -31,4 +31,4 @@ node index.js
 ![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assets/gate.jpg)
 
 #### Result
-![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assets/example.png)
+![alt tag](https://raw.githubusercontent.com/gruberb/ImageRecon/master/assets/ex.png)
